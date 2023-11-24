@@ -1,17 +1,17 @@
 # Data Science Portfolio
 
-# Eelloo consultancy
+## Eelloo Consultancy
 
-# [Facial Expression Recognition](https://www.kaggle.com/code/jakovgotovacborii/facial-expression-recognition-group-11-round-2)
-
-
-# [Physical Activity Recognition](https://www.kaggle.com/code/jakovgotovacborii/competition-2-par-g10)
+## [Facial Expression Recognition](https://www.kaggle.com/code/jakovgotovacborii/facial-expression-recognition-group-11-round-2)
 
 
-# [Predicting Vloggers Personality](https://www.kaggle.com/code/jakovgotovacborii/vlogger-big-five-competition-2023-group-05-b9b716)
+## [Physical Activity Recognition](https://www.kaggle.com/code/jakovgotovacborii/competition-2-par-g10)
 
 
-# [Categorising Amazon Reviews](https://www.kaggle.com/code/jakovgotovacborii/amazon-baby-reviews-bda2023-003f14)
+## [Predicting Vloggers Personality](https://www.kaggle.com/code/jakovgotovacborii/vlogger-big-five-competition-2023-group-05-b9b716)
+
+
+## [Categorising Amazon Reviews](https://www.kaggle.com/code/jakovgotovacborii/amazon-baby-reviews-bda2023-003f14)
 
 
 # Master Thesis
