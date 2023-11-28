@@ -3,6 +3,7 @@
 ## Eelloo Consultancy
 
 ## [Facial Expression Recognition](https://www.kaggle.com/code/jakovgotovacborii/facial-expression-recognition-group-11-round-2)
+![Screenshot_2021-02-01_at_13 44 53](https://github.com/JakovGotovacBorcic/Internship_Portfolio/assets/150671291/348260ab-ef62-41dd-958e-37b2fd197310)
 
 
 ## [Physical Activity Recognition](https://www.kaggle.com/code/jakovgotovacborii/competition-2-par-g10)
