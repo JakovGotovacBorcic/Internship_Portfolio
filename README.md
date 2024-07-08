@@ -1,3 +1,6 @@
+#[Comparison Of Convolutional Neural Network And Vision Transformer](https://www.kaggle.com/code/luthei/vit-vs-cnn-on-wikiart)  
+
+
 # [Facial Expression Recognition](https://www.kaggle.com/code/jakovgotovacborii/facial-expression-recognition-group-11-round-2)
 The goal of this competition was to find a model that would predict emotional expressions from human faces. My team shared the first place with 86% accuracy by computing an array of features and using support vector machines as our predictive model.
 
